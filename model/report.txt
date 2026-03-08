@@ -1,0 +1,12 @@
+Accuracy: 81.81%
+CV: 80.58%
+
+               precision    recall  f1-score   support
+
+    High Risk       0.77      0.89      0.82      2183
+Moderate Risk       0.83      0.75      0.79      4533
+      Trusted       0.84      0.86      0.85      3284
+
+     accuracy                           0.82     10000
+    macro avg       0.81      0.83      0.82     10000
+ weighted avg       0.82      0.82      0.82     10000
